@@ -93,10 +93,6 @@ export default class Widget extends React.Component {
 
 ## Other Uses
 
-### React Native
-
-See https://github.com/cpunion/react-native-actioncable
-
 ### Server Side Rendering
 
 See https://github.com/cpunion/react-actioncable-provider/issues/8
